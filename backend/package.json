@@ -13,5 +13,8 @@
   "devDependencies": {
     "express": "^4.21.2",
     "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
