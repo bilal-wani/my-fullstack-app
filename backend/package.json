@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^30.0.5",
-    "express": "^4.x.x"
+    "express": "^4.21.2",
+    "jest": "^30.0.5"
   }
-  
 }
