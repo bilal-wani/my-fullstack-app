@@ -25,8 +25,10 @@ function App() {
           <li key={p.id}>
             {p.name} - ₹{p.price}
           </li>
+          
         ))}
       </ul>
+      <p> Going Great</p>
     </div>
   );
 }
